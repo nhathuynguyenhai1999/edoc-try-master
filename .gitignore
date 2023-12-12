@@ -1,5 +1,5 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+node_modules
+log/*.log
+www/babylon
+www/codemirror
+www/out
